@@ -1,0 +1,46 @@
+﻿  main.cpp
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(29,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(36,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(36,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(78,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(99,64): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(99,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(99,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(133,68): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(133,60): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(133,52): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(159,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(159,45): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(159,37): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(200,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(201,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(213,24): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(213,40): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(213,56): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(214,23): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(214,39): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(214,55): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(215,23): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(215,39): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(215,55): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(216,22): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(216,38): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(216,54): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(217,21): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(217,37): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(217,53): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(218,21): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(218,37): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(218,53): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(226,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(262,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(287,5): warning C4018: '<': signed/unsigned mismatch
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(306,35): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(310,35): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(314,35): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(318,35): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(369,9): warning C4018: '<': signed/unsigned mismatch
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(372,40): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(373,40): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\10Home\Documents\VSprojects\sfml-3d\main.cpp(374,40): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+  sfml-3d.vcxproj -> C:\Users\10Home\Documents\VSprojects\sfml-3d\Debug\sfml-3d.exe
